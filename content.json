@@ -1,3 +1,10 @@
-{
-    "videoIds": ["MqE_SyqGUFg"]
-}
+[
+  {
+    "videoId": "MqE_SyqGUFg",
+    "description": "Video 1"
+  },
+  {
+    "videoId": "iADJ7NHFgDU",
+    "description": "Video 2"
+  }
+]
